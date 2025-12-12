@@ -1,0 +1,226 @@
+{
+    "7467": {
+        "claim": "season 5 the last season was of ray donovan.",
+        "labels": "refuting",
+        "sentences_and_labels": [
+            {
+                "sentence": "On February 4, 2020, Showtime cancelled the series after seven seasons.",
+                "label": "refuting"
+            },
+            {
+                "sentence": "The twelve-episode first season premiered on June 30, 2013.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "The pilot episode broke viewership records, becoming the biggest premiere of all time on Showtime.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "The show was cancelled without any advance warning, leaving fans and showrunner, David Hollander, in shock.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "A week later, Liev Schreiber commented on his Instagram that due to fans' support and activity in media, there \"will be more Ray Donovan\".",
+                "label": "neutral"
+            },
+            {
+                "sentence": "The drama is set primarily in Los Angeles, California (during seasons 1–5) and primarily in New York City, New York (during seasons 6–7).",
+                "label": "neutral"
+            }
+        ]
+    },
+    "7475": {
+        "claim": "there is going to be a third season of fargo.",
+        "labels": "supporting",
+        "sentences_and_labels": [
+            {
+                "sentence": "The third season has received acclaim from critics.",
+                "label": "supporting"
+            },
+            {
+                "sentence": "On Metacritic, it has a score of 89 out of 100 based on 32 reviews, indicating \"universal acclaim\".",
+                "label": "neutral"
+            },
+            {
+                "sentence": "On Rotten Tomatoes, it has a 93% \"certified fresh\" rating with an average score of 8.56 out of 10 based on 50 reviews.",
+                "label": "neutral"
+            }
+        ]
+    },
+    "7476": {
+        "claim": "yes, there is going to be a third season of fargo.",
+        "labels": "supporting",
+        "sentences_and_labels": [
+            {
+                "sentence": "The third season has received acclaim from critics.",
+                "label": "supporting"
+            },
+            {
+                "sentence": "On Metacritic, it has a score of 89 out of 100 based on 32 reviews, indicating \"universal acclaim\".",
+                "label": "neutral"
+            },
+            {
+                "sentence": "On Rotten Tomatoes, it has a 93% \"certified fresh\" rating with an average score of 8.56 out of 10 based on 50 reviews.",
+                "label": "neutral"
+            }
+        ]
+    },
+    "7482": {
+        "claim": "the film a united kingdom is based on a true story.",
+        "labels": "supporting",
+        "sentences_and_labels": [
+            {
+                "sentence": "A United Kingdom is a 2016 British biographical romantic drama film directed by Amma Asante and written by Guy Hibbert, based on the true-life romance between Seretse Khama, heir to the throne of Bechuanaland (later Botswana, of which he was President), and his wife Ruth Williams Khama.",
+                "label": "supporting"
+            },
+            {
+                "sentence": "David Oyelowo and Rosamund Pike portray Seretse and Ruth, respectively.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "It was screened at the 2016 Toronto International Film Festival, and was the opening film at the 60th London Film Festival.",
+                "label": "neutral"
+            }
+        ]
+    },
+    "7484": {
+        "claim": "the movie united kingdom is a true story",
+        "labels": "supporting",
+        "sentences_and_labels": [
+            {
+                "sentence": "A United Kingdom is a 2016 British biographical romantic drama film directed by Amma Asante and written by Guy Hibbert, based on the true-life romance between Seretse Khama, heir to the throne of Bechuanaland (later Botswana, of which he was President), and his wife Ruth Williams Khama.",
+                "label": "supporting"
+            },
+            {
+                "sentence": "David Oyelowo and Rosamund Pike portray Seretse and Ruth, respectively.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "It was screened at the 2016 Toronto International Film Festival, and was the opening film at the 60th London Film Festival.",
+                "label": "neutral"
+            }
+        ]
+    },
+    "7468": {
+        "claim": "forrest gump was a book before the movie.",
+        "labels": "supporting",
+        "sentences_and_labels": [
+            {
+                "sentence": "The film is based on the 1986 novel by Winston Groom.",
+                "label": "supporting"
+            },
+            {
+                "sentence": "The novel also features Gump as an astronaut, a professional wrestler, and a chess player.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "Two directors were offered the opportunity to direct the film before Robert Zemeckis was selected.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "Terry Gilliam turned down the offer.",
+                "label": "neutral"
+            }
+        ]
+    },
+    "7485": {
+        "claim": "footlocker and champs are owned by the same company.",
+        "labels": "supporting",
+        "sentences_and_labels": [
+            {
+                "sentence": "The company operates the eponymous “Foot Locker” chain of athletic footwear retail outlets (along with “Kids Foot Locker” and “Lady Foot Locker” stores), and other athletic-based divisions including Champs Sports, Footaction USA, House of Hoops, and Eastbay/Footlocker.com, which owns the rights to Final-Score.",
+                "label": "supporting"
+            },
+            {
+                "sentence": "Although established in 1974, and founded as a separate company in 1988, Foot Locker's roots date to 1879, as it is a successor corporation to the F. W. Woolworth Company (“Woolworth's”), as many of its freestanding stores were originally Kinney Shoes and Woolworth's locations.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "The company is also famous for its employees' uniforms at its flagship Foot Locker chain, resembling those of referees.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "According to the company's filings with the SEC, as of January 28, 2017, Foot Locker, Inc. had 3,363 primarily mall-based stores in the United States, Canada, Europe, and Asia.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "Nearly 70% of its product is from Nike.",
+                "label": "neutral"
+            }
+        ]
+    },
+    "7473": {
+        "claim": "there was a draft in world war 1.",
+        "labels": "supporting",
+        "sentences_and_labels": [
+            {
+                "sentence": "The American military was entirely segregated at the time of World War I. While the Army had several regiments of black \"Buffalo Soldiers\", many white supremacist politicians such as Sen. James K. Vardaman (Mississippi) and Sen. Benjamin Tillman (South Carolina) staunchly opposed any expanded military role for black Americans.",
+                "label": "supporting"
+            },
+            {
+                "sentence": "The August 1917 Houston Riot, when armed black soldiers fired upon Houston police and civilians, also affected the War Department's decision-making.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "The great majority of black soldiers were employed only in labor functions, such as road-building and freight-handling.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "Only two black combat units of were ultimately established – the 92nd and 93rd Infantry Divisions.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "Black Americans were entirely excluded from the United States Marine Corps and were consigned to menial labor in the United States Navy for the duration of the war.",
+                "label": "neutral"
+            }
+        ]
+    },
+    "2019": {
+        "claim": "the national anthem and the star spangled banner are the same thing.",
+        "labels": "supporting",
+        "sentences_and_labels": [
+            {
+                "sentence": "After having won gold and bronze medals respectively in the 200-meter running event, they turned on the podium to face their flags, and to hear the American national anthem, \"The Star-Spangled Banner\".",
+                "label": "supporting"
+            },
+            {
+                "sentence": "Each athlete raised a black-gloved fist, and kept them raised until the anthem had finished.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "In addition, Smith, Carlos, and Australian silver medalist Peter Norman all wore human rights badges on their jackets.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "In his autobiography, Silent Gesture, Smith stated that the gesture was not a \"Black Power\" salute, but a \"human rights salute\".",
+                "label": "neutral"
+            },
+            {
+                "sentence": "The event is regarded as one of the most overtly political statements in the history of the modern Olympic Games.",
+                "label": "neutral"
+            }
+        ]
+    },
+    "7491": {
+        "claim": "what a wonderful world is a jazz song.",
+        "labels": "supporting",
+        "sentences_and_labels": [
+            {
+                "sentence": "\"What a Wonderful World\" is a jazz song written by Bob Thiele (as \"George Douglas\") and George David Weiss.",
+                "label": "supporting"
+            },
+            {
+                "sentence": "It was first recorded by Louis Armstrong and released in 1967 as a single, which topped the pop charts in the United Kingdom.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "Armstrong's recording was inducted in the Grammy Hall of Fame in 1999.",
+                "label": "neutral"
+            },
+            {
+                "sentence": "The publishing for this song is controlled by Memory Lane Music Group, Carlin Music Corp. and BMG Rights Management.",
+                "label": "neutral"
+            }
+        ]
+    }
+}
